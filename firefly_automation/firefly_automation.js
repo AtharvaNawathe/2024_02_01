@@ -2,6 +2,7 @@
  * Firefly program where a Firefly is trapped inside a layout of height 50 and width 30.
  * The '*' should move in any 9 directions but should not go outside of the layout.
  * The initial position of the star can be random.
+ * @author : Atharva Nawathe
  */
 
 const Width = 50;
